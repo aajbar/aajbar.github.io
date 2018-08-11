@@ -1,4 +1,4 @@
-# aajbar.xyz
+# ajbar.xyz
 I don't know what to do with her yet.
 
 ## Planned
