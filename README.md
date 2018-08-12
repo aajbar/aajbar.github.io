@@ -1,5 +1,4 @@
 # ajbar.xyz
-I don't know what to do with her yet.
+Just a simple page for the domain I brought. 
 
 ## Planned
-* Custom domain and stuff.
